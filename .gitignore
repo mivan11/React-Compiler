@@ -1,0 +1,12 @@
+node_modules
+.env
+temp
+python39.dll
+python.exe
+pythonw.exe
+package-lock.json
+*.rest
+rest
+##testovi
+##*.test.js
+coverage
